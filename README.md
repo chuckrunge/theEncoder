@@ -19,7 +19,7 @@ theEncoder will encrypt files with a user-supplied password.  The password is en
 
 The filename and filetype are replaced with a generic "encoder.out" file.  When the file is decoded, the user is responsible for remembering the password and restoring the file type.
 
-Encoded files can be sent by email or ftp with a limited degree of privacy.  There are snoopers on any public network who watch your files go by, and encryption makes it much more difficult to read them.
+Encoded files can be sent by email or ftp with a limited degree of privacy.  There are snoopers on any public network who watch your files go by, and encryption makes it much more difficult to read them.  NOTE: DO NOT SEND THE PASSWORD IN THE SAME EMAIL!  Snoopers are lazy, and if we make things more complicated, they will probably move on to something easier. 
 
 The simplest way to bring up the user interface is to execute the batch file encoder.cmd.  The output file(s) will be created in the same folder with the command file and the jar file. 
 
