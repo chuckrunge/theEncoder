@@ -1,1 +1,1 @@
-java -jar encoderGUI-0.0.1-SNAPSHOT.jar
+java -jar encodeGUI-0.1.0-RELEASE.jar
